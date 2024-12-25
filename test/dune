@@ -1,0 +1,4 @@
+(test
+ (name test_Challenge))
+
+(env (dev (flags (:standard -warn-error -A))))
